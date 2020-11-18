@@ -1,0 +1,18 @@
+body{
+	background-color: #fed8b1;
+	font-family: sans-serif;
+}
+h1{
+	color:tomato;
+}
+h2{
+	color:skyblue;
+}
+em{
+	color:red;
+}
+img{
+	float: right;
+	border-color: black;
+	border-right-style: solid;
+}
